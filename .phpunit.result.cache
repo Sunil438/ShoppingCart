@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ProductTest::testfetchProductName":3,"ProductTest::testfetchProductPrice":6,"ProductTest::testfetchProductSpecialPrice":3,"CartTest::testaddProduct":4},"times":{"ProductTest::testfetchProductName":0.012,"ProductTest::testfetchProductPrice":0.001,"ProductTest::testfetchProductSpecialPrice":0,"CartTest::testaddProduct":0.032}}
